@@ -54,6 +54,7 @@
 		03CE66CA23D57CAB00510AC7 /* OSCClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSCClient.swift; sourceTree = "<group>"; };
 		03CE66CC23D57CAB00510AC7 /* Timer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
 		03CE66CD23D57CAB00510AC7 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		B5CEAB32243961B3000AA52E /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Package.swift; path = ../../Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +71,7 @@
 		0364866C1F820BBD00F3D6CE = {
 			isa = PBXGroup;
 			children = (
+				B5CEAB32243961B3000AA52E /* Package.swift */,
 				0332C9271F82A11600CBA6A7 /* Info.plist */,
 				0332C9281F82A11600CBA6A7 /* SwiftOSC.h */,
 				03CE66B023D57CAB00510AC7 /* SwiftOSC */,
@@ -95,7 +97,7 @@
 				03CE66CB23D57CAB00510AC7 /* Helpers */,
 			);
 			name = SwiftOSC;
-			path = ../SwiftOSC;
+			path = ../../Source;
 			sourceTree = "<group>";
 		};
 		03CE66B123D57CAB00510AC7 /* Types */ = {
