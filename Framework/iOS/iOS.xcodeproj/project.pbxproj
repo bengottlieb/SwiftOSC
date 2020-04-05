@@ -97,7 +97,7 @@
 				03CE66CB23D57CAB00510AC7 /* Helpers */,
 			);
 			name = SwiftOSC;
-			path = ../../Source;
+			path = ../../Source/SwiftOSC;
 			sourceTree = "<group>";
 		};
 		03CE66B123D57CAB00510AC7 /* Types */ = {
